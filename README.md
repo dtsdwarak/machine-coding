@@ -1,2 +1,2 @@
-# machine-coding
+# Machine Coding
 LLD/Machine Coding Implementations
